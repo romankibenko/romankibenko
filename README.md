@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Roman 👋</h1>
-
 <p align="center">
   <b>Project Manager @ Construction Industry · Java Developer · Jmix Enthusiast</b>
 </p>
-
 <p align="center">
   <a href="mailto:kozecki2000@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -52,7 +50,7 @@ I work with the **Jmix** framework to rapidly build enterprise-grade web applica
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romankibenko&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=romankibenko&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankibenko&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
 
@@ -61,4 +59,3 @@ I work with the **Jmix** framework to rapidly build enterprise-grade web applica
 <p align="center">
   <i>"I build the tools my team actually needs."</i>
 </p>
-
